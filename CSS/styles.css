@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 50px solid gray;
+  text-align: center;
+  font-family: sans-serif;
+}
+h1 {
+    color: magenta;
+}
+  ul {
+    text-align: center;
+    list-style: none;
+}
