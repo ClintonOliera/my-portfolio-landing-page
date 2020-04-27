@@ -3,7 +3,7 @@ body {
   padding: 0;
   font-family: sans-serif;
   text-align: center;
-  background-color: #ff57;
+  background-color: rgba(255, 255, 85, 0.336);
   box-sizing: border-box;
 }
 h1 {
@@ -22,3 +22,8 @@ p {
   line-height: 45px;
   text-align: center;
 }
+
+
+
+
+  
